@@ -34,8 +34,8 @@ Claude Code를 쓰는 프로젝트마다 층이 생기고, 그 안에서 Claude�
 ## 주요 기능 · Features
 - **프로젝트별 층:** 최근 7일 안에 쓴 프로젝트가 층으로 나타나고, 쓰지 않는 층은 목록에서 지울 수 있습니다.
   *Floors per project: projects used in the last 7 days appear as floors, and you can remove the ones you no longer use.*
-- **Cowork 층:** Claude 데스크탑 앱의 Cowork 세션은 맨 위의 층 하나에 모입니다.
-  *Cowork floor: Cowork sessions from the Claude desktop app gather on one floor at the top.*
+- **Cowork 층:** Claude 데스크탑 앱의 Cowork 세션은 1층에 모입니다.
+  *Cowork floor: Cowork sessions from the Claude desktop app gather on the ground floor.*
 - **세션과 서브에이전트:** 세션마다 Claude 한 명이 일하고, 서브에이전트도 직원으로 나타납니다.
   *Sessions and subagents: each session is one Claude at work, and subagents show up as staff too.*
 - **도구별 방:** 파일 읽기는 자료실, 코드 수정은 개발실, 명령 실행은 서버실, 웹 검색은 정보검색실에서 합니다.
